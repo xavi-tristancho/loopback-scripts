@@ -1,0 +1,15 @@
+{
+  "name": "loopback-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for everyday use with loopback",
+  "repository": "xavitb3/loopback-scripts",
+  "files": ["bin"],
+  "bin": {
+    "loopback-scripts": "./bin/loopback-scripts.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xavi Tristancho",
+  "license": "MIT"
+}
