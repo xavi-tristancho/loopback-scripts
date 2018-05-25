@@ -1,9 +1,9 @@
 {
   "name": "loopback-scripts",
-  "version": "1.0.0",
-  "description": "Scripts for everyday use with loopback",
+  "version": "1.0.1",
+  "description": "A collection of scripts for everyday use with loopback",
   "repository": "xavitb3/loopback-scripts",
-  "files": ["bin"],
+  "files": ["bin", "scripts"],
   "bin": {
     "loopback-scripts": "./bin/loopback-scripts.js"
   },
